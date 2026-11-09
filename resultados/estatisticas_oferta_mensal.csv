@@ -1,0 +1,9 @@
+﻿tabela,linha,metrica,variavel,observacoes,validas,ausentes,minimo,maximo,media,mediana,variancia_amostral,desvio_padrao_amostral,q1,q3,iqr,limite_inferior,limite_superior,outliers_iqr
+oferta_mensal,Linha 1-Azul,intervalo_minimo_segundos,valor,12,7,5,131.0,132.0,131.42857142857142,131.0,0.2857142857142857,0.5345224838248488,131.0,132.0,1.0,129.5,133.5,0
+oferta_mensal,Linha 1-Azul,velocidade_comercial_kmh,valor,12,7,5,30.0,30.0,30.0,30.0,0.0,0.0,30.0,30.0,0.0,30.0,30.0,0
+oferta_mensal,Linha 15-Prata,intervalo_minimo_segundos,valor,12,7,5,170.0,171.0,170.14285714285714,170.0,0.14285714285714282,0.3779644730092272,170.0,170.0,0.0,170.0,170.0,1
+oferta_mensal,Linha 15-Prata,velocidade_comercial_kmh,valor,12,7,5,35.0,35.0,35.0,35.0,0.0,0.0,35.0,35.0,0.0,35.0,35.0,0
+oferta_mensal,Linha 2-Verde,intervalo_minimo_segundos,valor,12,7,5,118.0,131.0,128.57142857142858,131.0,23.95238095238095,4.894116973712515,129.0,131.0,2.0,126.0,134.0,1
+oferta_mensal,Linha 2-Verde,velocidade_comercial_kmh,valor,12,7,5,32.0,32.0,32.0,32.0,0.0,0.0,32.0,32.0,0.0,32.0,32.0,0
+oferta_mensal,Linha 3-Vermelha,intervalo_minimo_segundos,valor,12,7,5,132.0,132.0,132.0,132.0,0.0,0.0,132.0,132.0,0.0,132.0,132.0,0
+oferta_mensal,Linha 3-Vermelha,velocidade_comercial_kmh,valor,12,7,5,32.0,32.0,32.0,32.0,0.0,0.0,32.0,32.0,0.0,32.0,32.0,0

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg
+  PUBLIC '-//W3C//DTD SVG 1.0//EN'
+  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg width="920" height="385" preserveAspectRatio="xMinYMin meet" viewBox="0 0 920 385" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="920" height="385"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-385)" style="clip-path: url(#clip)">
+		<g transform="">
+			<rect x="0" y="0" width="920" height="385" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="40" y="345" style="font-family: Helvetica-Bold; font-size: 24px;fill: rgb(9%,15%,21%); stroke:none;" transform="translate(0,690) scale(1,-1)">O mês de maior volume mudou quando olhamos por dia</text>
+			<text x="40" y="321" style="font-family: Helvetica; font-size: 12px;fill: rgb(25%,32%,41%); stroke:none;" transform="translate(0,642) scale(1,-1)">Total mensal e total dividido pelos dias de calendário | Rede publicada | 2025</text>
+			<text x="40" y="25" style="font-family: Helvetica; font-size: 10px;fill: rgb(25%,32%,41%); stroke:none;" transform="translate(0,50) scale(1,-1)">Fonte: Metrô de São Paulo, entradas mensais de 2025. Rede conforme o CSV.</text>
+			<text x="64" y="285" style="font-family: Helvetica-Bold; font-size: 13px;fill: rgb(9%,15%,21%); stroke:none;" transform="translate(0,570) scale(1,-1)">Entradas no mês (milhões)</text>
+			<path d="M 64,75 L 424,75 Z" style="stroke: rgb(86%,89%,92%); stroke-linecap: butt; stroke-width: 1;"/>
+			<text x="50.996" y="72.0" style="font-family: Helvetica; font-size: 9px;fill: rgb(25%,32%,41%); stroke:none;" transform="translate(0,144) scale(1,-1)">0</text>
+			<path d="M 64,130.151515 L 424,130.151515 Z" style="stroke: rgb(86%,89%,92%); stroke-linecap: butt; stroke-width: 1;"/>
+			<text x="45.992" y="127.15151515151516" style="font-family: Helvetica; font-size: 9px;fill: rgb(25%,32%,41%); stroke:none;" transform="translate(0,254) scale(1,-1)">20</text>
+			<path d="M 64,185.30303 L 424,185.30303 Z" style="stroke: rgb(86%,89%,92%); stroke-linecap: butt; stroke-width: 1;"/>
+			<text x="45.992" y="182.3030303030303" style="font-family: Helvetica; font-size: 9px;fill: rgb(25%,32%,41%); stroke:none;" transform="translate(0,364) scale(1,-1)">40</text>
+			<path d="M 64,240.454545 L 424,240.454545 Z" style="stroke: rgb(86%,89%,92%); stroke-linecap: butt; stroke-width: 1;"/>
+			<text x="45.992" y="237.45454545454547" style="font-family: Helvetica; font-size: 9px;fill: rgb(25%,32%,41%); stroke:none;" transform="translate(0,474) scale(1,-1)">60</text>
+			<rect x="69" y="75" width="20" height="141.55739393939393" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(77%,84%,87%); fill-rule: evenodd;"/>
+			<text x="71.746" y="56" style="font-family: Helvetica; font-size: 9px;fill: rgb(25%,32%,41%); stroke:none;" transform="translate(0,112) scale(1,-1)">Jan</text>
+			<rect x="99" y="75" width="20" height="149.45784848484845" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(77%,84%,87%); fill-rule: evenodd;"/>
+			<text x="101.4985" y="56" style="font-family: Helvetica; font-size: 9px;fill: rgb(25%,32%,41%); stroke:none;" transform="translate(0,112) scale(1,-1)">Fev</text>
+			<rect x="129" y="75" width="20" height="156.76266666666666" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(77%,84%,87%); fill-rule: evenodd;"/>
+			<text x="131.251" y="56" style="font-family: Helvetica; font-size: 9px;fill: rgb(25%,32%,41%); stroke:none;" transform="translate(0,112) scale(1,-1)">Mar</text>
+			<rect x="159" y="75" width="20" height="158.86945454545454" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(77%,84%,87%); fill-rule: evenodd;"/>
+			<text x="161.998" y="56" style="font-family: Helvetica; font-size: 9px;fill: rgb(25%,32%,41%); stroke:none;" transform="translate(0,112) scale(1,-1)">Abr</text>
+			<rect x="189" y="75" width="20" height="163.53251515151513" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(77%,84%,87%); fill-rule: evenodd;"/>
+			<text x="191.7505" y="56" style="font-family: Helvetica; font-size: 9px;fill: rgb(25%,32%,41%); stroke:none;" transform="translate(0,112) scale(1,-1)">Mai</text>
+			<rect x="219" y="75" width="20" height="150.59672727272726" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(77%,84%,87%); fill-rule: evenodd;"/>
+			<text x="221.746" y="56" style="font-family: Helvetica; font-size: 9px;fill: rgb(25%,32%,41%); stroke:none;" transform="translate(0,112) scale(1,-1)">Jun</text>
+			<rect x="249" y="75" width="20" height="152.83587878787878" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(77%,84%,87%); fill-rule: evenodd;"/>
+			<text x="253.249" y="56" style="font-family: Helvetica; font-size: 9px;fill: rgb(25%,32%,41%); stroke:none;" transform="translate(0,112) scale(1,-1)">Jul</text>
+			<rect x="279" y="75" width="20" height="161.66012121212123" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(77%,84%,87%); fill-rule: evenodd;"/>
+			<text x="280.9945" y="56" style="font-family: Helvetica; font-size: 9px;fill: rgb(25%,32%,41%); stroke:none;" transform="translate(0,112) scale(1,-1)">Ago</text>
+			<rect x="309" y="75" width="20" height="165.45178787878788" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(77%,84%,87%); fill-rule: evenodd;"/>
+			<text x="312.2455" y="56" style="font-family: Helvetica; font-size: 9px;fill: rgb(25%,32%,41%); stroke:none;" transform="translate(0,112) scale(1,-1)">Set</text>
+			<rect x="339" y="75" width="20" height="169.897" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(0%,41%,50%); fill-rule: evenodd;"/>
+			<text x="341.746" y="56" style="font-family: Helvetica; font-size: 9px;fill: rgb(25%,32%,41%); stroke:none;" transform="translate(0,112) scale(1,-1)">Out</text>
+			<text x="333.71" y="251.897" style="font-family: Helvetica-Bold; font-size: 10px;fill: rgb(0%,41%,50%); stroke:none;" transform="translate(0,503) scale(1,-1)">61,611</text>
+			<rect x="369" y="75" width="20" height="156.51448484848484" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(77%,84%,87%); fill-rule: evenodd;"/>
+			<text x="370.999" y="56" style="font-family: Helvetica; font-size: 9px;fill: rgb(25%,32%,41%); stroke:none;" transform="translate(0,112) scale(1,-1)">Nov</text>
+			<rect x="399" y="75" width="20" height="149.82460606060607" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(77%,84%,87%); fill-rule: evenodd;"/>
+			<text x="400.999" y="56" style="font-family: Helvetica; font-size: 9px;fill: rgb(25%,32%,41%); stroke:none;" transform="translate(0,112) scale(1,-1)">Dez</text>
+			<text x="502" y="285" style="font-family: Helvetica-Bold; font-size: 13px;fill: rgb(9%,15%,21%); stroke:none;" transform="translate(0,570) scale(1,-1)">Entradas por dia (milhões)</text>
+			<path d="M 502,75 L 862,75 Z" style="stroke: rgb(86%,89%,92%); stroke-linecap: butt; stroke-width: 1;"/>
+			<text x="488.996" y="72.0" style="font-family: Helvetica; font-size: 9px;fill: rgb(25%,32%,41%); stroke:none;" transform="translate(0,144) scale(1,-1)">0</text>
+			<path d="M 502,117.325581 L 862,117.325581 Z" style="stroke: rgb(86%,89%,92%); stroke-linecap: butt; stroke-width: 1;"/>
+			<text x="481.49" y="114.32558139534885" style="font-family: Helvetica; font-size: 9px;fill: rgb(25%,32%,41%); stroke:none;" transform="translate(0,228) scale(1,-1)">0,5</text>
+			<path d="M 502,159.651163 L 862,159.651163 Z" style="stroke: rgb(86%,89%,92%); stroke-linecap: butt; stroke-width: 1;"/>
+			<text x="488.996" y="156.6511627906977" style="font-family: Helvetica; font-size: 9px;fill: rgb(25%,32%,41%); stroke:none;" transform="translate(0,313) scale(1,-1)">1</text>
+			<path d="M 502,201.976744 L 862,201.976744 Z" style="stroke: rgb(86%,89%,92%); stroke-linecap: butt; stroke-width: 1;"/>
+			<text x="481.49" y="198.97674418604652" style="font-family: Helvetica; font-size: 9px;fill: rgb(25%,32%,41%); stroke:none;" transform="translate(0,397) scale(1,-1)">1,5</text>
+			<path d="M 502,244.302326 L 862,244.302326 Z" style="stroke: rgb(86%,89%,92%); stroke-linecap: butt; stroke-width: 1;"/>
+			<text x="488.996" y="241.30232558139537" style="font-family: Helvetica; font-size: 9px;fill: rgb(25%,32%,41%); stroke:none;" transform="translate(0,482) scale(1,-1)">2</text>
+			<rect x="507" y="75" width="20" height="140.17686421605404" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(77%,84%,87%); fill-rule: evenodd;"/>
+			<text x="509.746" y="56" style="font-family: Helvetica; font-size: 9px;fill: rgb(25%,32%,41%); stroke:none;" transform="translate(0,112) scale(1,-1)">Jan</text>
+			<rect x="537" y="75" width="20" height="163.85744186046512" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(77%,84%,87%); fill-rule: evenodd;"/>
+			<text x="539.4985" y="56" style="font-family: Helvetica; font-size: 9px;fill: rgb(25%,32%,41%); stroke:none;" transform="translate(0,112) scale(1,-1)">Fev</text>
+			<rect x="567" y="75" width="20" height="155.23384846211553" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(77%,84%,87%); fill-rule: evenodd;"/>
+			<text x="569.251" y="56" style="font-family: Helvetica; font-size: 9px;fill: rgb(25%,32%,41%); stroke:none;" transform="translate(0,112) scale(1,-1)">Mar</text>
+			<rect x="597" y="75" width="20" height="162.56409302325582" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(77%,84%,87%); fill-rule: evenodd;"/>
+			<text x="599.998" y="56" style="font-family: Helvetica; font-size: 9px;fill: rgb(25%,32%,41%); stroke:none;" transform="translate(0,112) scale(1,-1)">Abr</text>
+			<rect x="627" y="75" width="20" height="161.93767441860464" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(77%,84%,87%); fill-rule: evenodd;"/>
+			<text x="629.7505" y="56" style="font-family: Helvetica; font-size: 9px;fill: rgb(25%,32%,41%); stroke:none;" transform="translate(0,112) scale(1,-1)">Mai</text>
+			<rect x="657" y="75" width="20" height="154.09897674418605" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(77%,84%,87%); fill-rule: evenodd;"/>
+			<text x="659.746" y="56" style="font-family: Helvetica; font-size: 9px;fill: rgb(25%,32%,41%); stroke:none;" transform="translate(0,112) scale(1,-1)">Jun</text>
+			<rect x="687" y="75" width="20" height="151.34535633908476" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(77%,84%,87%); fill-rule: evenodd;"/>
+			<text x="691.249" y="56" style="font-family: Helvetica; font-size: 9px;fill: rgb(25%,32%,41%); stroke:none;" transform="translate(0,112) scale(1,-1)">Jul</text>
+			<rect x="717" y="75" width="20" height="160.0835408852213" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(77%,84%,87%); fill-rule: evenodd;"/>
+			<text x="718.9945" y="56" style="font-family: Helvetica; font-size: 9px;fill: rgb(25%,32%,41%); stroke:none;" transform="translate(0,112) scale(1,-1)">Ago</text>
+			<rect x="747" y="75" width="20" height="169.299503875969" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(0%,41%,50%); fill-rule: evenodd;"/>
+			<text x="750.2455" y="56" style="font-family: Helvetica; font-size: 9px;fill: rgb(25%,32%,41%); stroke:none;" transform="translate(0,112) scale(1,-1)">Set</text>
+			<text x="744.49" y="251.299503875969" style="font-family: Helvetica-Bold; font-size: 10px;fill: rgb(0%,41%,50%); stroke:none;" transform="translate(0,502) scale(1,-1)">2,000</text>
+			<rect x="777" y="75" width="20" height="168.24009002250563" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(77%,84%,87%); fill-rule: evenodd;"/>
+			<text x="779.746" y="56" style="font-family: Helvetica; font-size: 9px;fill: rgb(25%,32%,41%); stroke:none;" transform="translate(0,112) scale(1,-1)">Out</text>
+			<rect x="807" y="75" width="20" height="160.1543565891473" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(77%,84%,87%); fill-rule: evenodd;"/>
+			<text x="808.999" y="56" style="font-family: Helvetica; font-size: 9px;fill: rgb(25%,32%,41%); stroke:none;" transform="translate(0,112) scale(1,-1)">Nov</text>
+			<rect x="837" y="75" width="20" height="148.3634508627157" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(77%,84%,87%); fill-rule: evenodd;"/>
+			<text x="838.999" y="56" style="font-family: Helvetica; font-size: 9px;fill: rgb(25%,32%,41%); stroke:none;" transform="translate(0,112) scale(1,-1)">Dez</text>
+		</g>
+	</g>
+</svg>

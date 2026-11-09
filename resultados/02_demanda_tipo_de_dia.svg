@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg
+  PUBLIC '-//W3C//DTD SVG 1.0//EN'
+  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg width="920" height="435" preserveAspectRatio="xMinYMin meet" viewBox="0 0 920 435" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="920" height="435"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-435)" style="clip-path: url(#clip)">
+		<g transform="">
+			<rect x="0" y="0" width="920" height="435" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="40" y="395" style="font-family: Helvetica-Bold; font-size: 24px;fill: rgb(9%,15%,21%); stroke:none;" transform="translate(0,790) scale(1,-1)">Domingo teve a menor média diária nas quatro linhas</text>
+			<text x="40" y="371" style="font-family: Helvetica; font-size: 12px;fill: rgb(25%,32%,41%); stroke:none;" transform="translate(0,742) scale(1,-1)">Entradas médias por dia (mil) | Totais diários publicados | 2025</text>
+			<text x="40" y="25" style="font-family: Helvetica; font-size: 10px;fill: rgb(25%,32%,41%); stroke:none;" transform="translate(0,50) scale(1,-1)">Fonte: Metrô de São Paulo. Seg–sex inclui feriados. Prata: 49 domingos com valor de 52.</text>
+			<rect x="83" y="330" width="12" height="12" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(0%,41%,50%); fill-rule: evenodd;"/>
+			<text x="102" y="330" style="font-family: Helvetica; font-size: 11px;fill: rgb(9%,15%,21%); stroke:none;" transform="translate(0,660) scale(1,-1)">Seg–sex</text>
+			<rect x="219" y="330" width="12" height="12" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(60%,33%,0%); fill-rule: evenodd;"/>
+			<text x="238" y="330" style="font-family: Helvetica; font-size: 11px;fill: rgb(9%,15%,21%); stroke:none;" transform="translate(0,660) scale(1,-1)">Sábado</text>
+			<rect x="355" y="330" width="12" height="12" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(38%,32%,63%); fill-rule: evenodd;"/>
+			<text x="374" y="330" style="font-family: Helvetica; font-size: 11px;fill: rgb(9%,15%,21%); stroke:none;" transform="translate(0,660) scale(1,-1)">Domingo</text>
+			<path d="M 78,79 L 873,79 Z" style="stroke: rgb(86%,89%,92%); stroke-linecap: butt; stroke-width: 1;"/>
+			<text x="63.44" y="76.0" style="font-family: Helvetica; font-size: 10px;fill: rgb(25%,32%,41%); stroke:none;" transform="translate(0,152) scale(1,-1)">0</text>
+			<path d="M 78,130.111111 L 873,130.111111 Z" style="stroke: rgb(86%,89%,92%); stroke-linecap: butt; stroke-width: 1;"/>
+			<text x="52.32" y="127.11111111111111" style="font-family: Helvetica; font-size: 10px;fill: rgb(25%,32%,41%); stroke:none;" transform="translate(0,254) scale(1,-1)">200</text>
+			<path d="M 78,181.222222 L 873,181.222222 Z" style="stroke: rgb(86%,89%,92%); stroke-linecap: butt; stroke-width: 1;"/>
+			<text x="52.32" y="178.22222222222223" style="font-family: Helvetica; font-size: 10px;fill: rgb(25%,32%,41%); stroke:none;" transform="translate(0,356) scale(1,-1)">400</text>
+			<path d="M 78,232.333333 L 873,232.333333 Z" style="stroke: rgb(86%,89%,92%); stroke-linecap: butt; stroke-width: 1;"/>
+			<text x="52.32" y="229.33333333333334" style="font-family: Helvetica; font-size: 10px;fill: rgb(25%,32%,41%); stroke:none;" transform="translate(0,458) scale(1,-1)">600</text>
+			<path d="M 78,283.444444 L 873,283.444444 Z" style="stroke: rgb(86%,89%,92%); stroke-linecap: butt; stroke-width: 1;"/>
+			<text x="52.32" y="280.44444444444446" style="font-family: Helvetica; font-size: 10px;fill: rgb(25%,32%,41%); stroke:none;" transform="translate(0,560) scale(1,-1)">800</text>
+			<rect x="119" y="79" width="34" height="196.2392507449979" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(0%,41%,50%); fill-rule: evenodd;"/>
+			<text x="123.49" y="280.2392507449979" style="font-family: Helvetica; font-size: 10px;fill: rgb(0%,41%,50%); stroke:none;" transform="translate(0,560) scale(1,-1)">767,9</text>
+			<rect x="164" y="79" width="34" height="120.9809829059829" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(60%,33%,0%); fill-rule: evenodd;"/>
+			<text x="168.49" y="204.9809829059829" style="font-family: Helvetica; font-size: 10px;fill: rgb(60%,33%,0%); stroke:none;" transform="translate(0,409) scale(1,-1)">473,4</text>
+			<rect x="209" y="79" width="34" height="69.81138888888887" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(38%,32%,63%); fill-rule: evenodd;"/>
+			<text x="213.49" y="153.81138888888887" style="font-family: Helvetica; font-size: 10px;fill: rgb(38%,32%,63%); stroke:none;" transform="translate(0,307) scale(1,-1)">273,2</text>
+			<text x="148.3025" y="59" style="font-family: Helvetica-Bold; font-size: 11px;fill: rgb(9%,15%,21%); stroke:none;" transform="translate(0,118) scale(1,-1)">Linha 1-Azul</text>
+			<rect x="313" y="79" width="34" height="130.37054065559812" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(0%,41%,50%); fill-rule: evenodd;"/>
+			<text x="317.49" y="214.37054065559812" style="font-family: Helvetica; font-size: 10px;fill: rgb(0%,41%,50%); stroke:none;" transform="translate(0,428) scale(1,-1)">510,1</text>
+			<rect x="358" y="79" width="34" height="63.546346153846144" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(60%,33%,0%); fill-rule: evenodd;"/>
+			<text x="362.49" y="147.54634615384614" style="font-family: Helvetica; font-size: 10px;fill: rgb(60%,33%,0%); stroke:none;" transform="translate(0,295) scale(1,-1)">248,7</text>
+			<rect x="403" y="79" width="34" height="40.916410256410245" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(38%,32%,63%); fill-rule: evenodd;"/>
+			<text x="407.49" y="124.91641025641024" style="font-family: Helvetica; font-size: 10px;fill: rgb(38%,32%,63%); stroke:none;" transform="translate(0,249) scale(1,-1)">160,1</text>
+			<text x="338.6285" y="59" style="font-family: Helvetica-Bold; font-size: 11px;fill: rgb(9%,15%,21%); stroke:none;" transform="translate(0,118) scale(1,-1)">Linha 2-Verde</text>
+			<rect x="507" y="79" width="34" height="213.18277990634317" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(0%,41%,50%); fill-rule: evenodd;"/>
+			<text x="511.49" y="297.18277990634317" style="font-family: Helvetica; font-size: 10px;fill: rgb(0%,41%,50%); stroke:none;" transform="translate(0,594) scale(1,-1)">834,2</text>
+			<rect x="552" y="79" width="34" height="136.20570512820515" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(60%,33%,0%); fill-rule: evenodd;"/>
+			<text x="556.49" y="220.20570512820515" style="font-family: Helvetica; font-size: 10px;fill: rgb(60%,33%,0%); stroke:none;" transform="translate(0,440) scale(1,-1)">533,0</text>
+			<rect x="597" y="79" width="34" height="82.21025641025642" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(38%,32%,63%); fill-rule: evenodd;"/>
+			<text x="601.49" y="166.21025641025642" style="font-family: Helvetica; font-size: 10px;fill: rgb(38%,32%,63%); stroke:none;" transform="translate(0,332) scale(1,-1)">321,7</text>
+			<text x="523.152" y="59" style="font-family: Helvetica-Bold; font-size: 11px;fill: rgb(9%,15%,21%); stroke:none;" transform="translate(0,118) scale(1,-1)">Linha 3-Vermelha</text>
+			<rect x="701" y="79" width="34" height="20.968382290336308" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(0%,41%,50%); fill-rule: evenodd;"/>
+			<text x="708.27" y="104.96838229033631" style="font-family: Helvetica; font-size: 10px;fill: rgb(0%,41%,50%); stroke:none;" transform="translate(0,209) scale(1,-1)">82,1</text>
+			<rect x="746" y="79" width="34" height="11.278354700854706" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(60%,33%,0%); fill-rule: evenodd;"/>
+			<text x="753.27" y="95.2783547008547" style="font-family: Helvetica; font-size: 10px;fill: rgb(60%,33%,0%); stroke:none;" transform="translate(0,190) scale(1,-1)">44,1</text>
+			<rect x="791" y="79" width="34" height="5.912721088435376" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(38%,32%,63%); fill-rule: evenodd;"/>
+			<text x="798.27" y="89.91272108843538" style="font-family: Helvetica; font-size: 10px;fill: rgb(38%,32%,63%); stroke:none;" transform="translate(0,179) scale(1,-1)">23,1</text>
+			<text x="725.0995" y="59" style="font-family: Helvetica-Bold; font-size: 11px;fill: rgb(9%,15%,21%); stroke:none;" transform="translate(0,118) scale(1,-1)">Linha 15-Prata</text>
+		</g>
+	</g>
+</svg>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg
+  PUBLIC '-//W3C//DTD SVG 1.0//EN'
+  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg width="920" height="415" preserveAspectRatio="xMinYMin meet" viewBox="0 0 920 415" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="920" height="415"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-415)" style="clip-path: url(#clip)">
+		<g transform="">
+			<rect x="0" y="0" width="920" height="415" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="40" y="375" style="font-family: Helvetica-Bold; font-size: 24px;fill: rgb(9%,15%,21%); stroke:none;" transform="translate(0,750) scale(1,-1)">Luz liderou as entradas diárias da Linha 1–Azul</text>
+			<text x="40" y="351" style="font-family: Helvetica; font-size: 12px;fill: rgb(25%,32%,41%); stroke:none;" transform="translate(0,702) scale(1,-1)">Cinco maiores médias por estação (mil entradas/dia) | 2025</text>
+			<text x="40" y="25" style="font-family: Helvetica; font-size: 10px;fill: rgb(25%,32%,41%); stroke:none;" transform="translate(0,50) scale(1,-1)">Fonte: Metrô de São Paulo. Média sobre dias com valor. TUC tem 364 dias, as demais têm 365.</text>
+			<text x="42" y="298" style="font-family: Helvetica; font-size: 13px;fill: rgb(9%,15%,21%); stroke:none;" transform="translate(0,596) scale(1,-1)">Luz</text>
+			<rect x="145" y="290" width="576.9100249066003" height="27" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(0%,41%,50%); fill-rule: evenodd;"/>
+			<text x="733.9100249066003" y="298" style="font-family: Helvetica-Bold; font-size: 12px;fill: rgb(25%,32%,41%); stroke:none;" transform="translate(0,596) scale(1,-1)">101,5</text>
+			<text x="42" y="250" style="font-family: Helvetica; font-size: 13px;fill: rgb(9%,15%,21%); stroke:none;" transform="translate(0,500) scale(1,-1)">Santa Cruz</text>
+			<rect x="145" y="242" width="431.83530510585297" height="27" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(0%,41%,50%); fill-rule: evenodd;"/>
+			<text x="588.835305105853" y="250" style="font-family: Helvetica-Bold; font-size: 12px;fill: rgb(25%,32%,41%); stroke:none;" transform="translate(0,500) scale(1,-1)">76,0</text>
+			<text x="42" y="202" style="font-family: Helvetica; font-size: 13px;fill: rgb(9%,15%,21%); stroke:none;" transform="translate(0,404) scale(1,-1)">Jabaquara</text>
+			<rect x="145" y="194" width="331.27646326276465" height="27" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(0%,41%,50%); fill-rule: evenodd;"/>
+			<text x="488.27646326276465" y="202" style="font-family: Helvetica-Bold; font-size: 12px;fill: rgb(25%,32%,41%); stroke:none;" transform="translate(0,404) scale(1,-1)">58,3</text>
+			<text x="42" y="154" style="font-family: Helvetica; font-size: 13px;fill: rgb(9%,15%,21%); stroke:none;" transform="translate(0,308) scale(1,-1)">Tucuruvi</text>
+			<rect x="145" y="146" width="261.0748626373626" height="27" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(50%,60%,65%); fill-rule: evenodd;"/>
+			<text x="418.0748626373626" y="154" style="font-family: Helvetica-Bold; font-size: 12px;fill: rgb(25%,32%,41%); stroke:none;" transform="translate(0,308) scale(1,-1)">45,9</text>
+			<text x="42" y="106" style="font-family: Helvetica; font-size: 13px;fill: rgb(9%,15%,21%); stroke:none;" transform="translate(0,212) scale(1,-1)">São Bento</text>
+			<rect x="145" y="98" width="232.1808841843088" height="27" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(50%,60%,65%); fill-rule: evenodd;"/>
+			<text x="389.1808841843088" y="106" style="font-family: Helvetica-Bold; font-size: 12px;fill: rgb(25%,32%,41%); stroke:none;" transform="translate(0,212) scale(1,-1)">40,9</text>
+		</g>
+	</g>
+</svg>

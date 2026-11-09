@@ -1,0 +1,13 @@
+﻿linha,tipo_dia,dias_base,dias_com_valor,media_entradas_mil,mediana_entradas_mil,p25_entradas_mil
+Linha 1-Azul,Domingo,52,52,273.1750,272.1500,256.9250
+Linha 1-Azul,Seg–sex,261,261,767.8927,810.5000,747.9000
+Linha 1-Azul,Sábado,52,52,473.4038,477.0500,464.5000
+Linha 15-Prata,Domingo,52,49,23.1367,24.2000,22.8000
+Linha 15-Prata,Seg–sex,261,261,82.0502,86.2000,81.2000
+Linha 15-Prata,Sábado,52,52,44.1327,45.6500,42.3500
+Linha 2-Verde,Domingo,52,52,160.1077,156.6500,147.6500
+Linha 2-Verde,Seg–sex,261,261,510.1456,534.0000,502.7000
+Linha 2-Verde,Sábado,52,52,248.6596,250.9500,238.7500
+Linha 3-Vermelha,Domingo,52,52,321.6923,319.6500,297.3750
+Linha 3-Vermelha,Seg–sex,261,261,834.1935,872.6000,819.9000
+Linha 3-Vermelha,Sábado,52,52,532.9788,535.0000,518.0000

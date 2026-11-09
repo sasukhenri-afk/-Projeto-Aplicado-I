@@ -1,0 +1,9 @@
+﻿linha,pares_previstos,pares_validos,sabado_media_mil,domingo_media_mil,domingo_menor_qtd,diferenca_mediana_mil,domingo_menor_pct,domingo_vs_sabado_pct,escopo
+Linha 1-Azul,52,52,473.4038,273.1750,52,-206.8500,100.0000,-42.2956,pares_disponiveis_por_linha
+Linha 15-Prata,52,49,44.3776,23.1367,49,-21.3000,100.0000,-47.8639,pares_disponiveis_por_linha
+Linha 2-Verde,52,52,248.6596,160.1077,52,-89.6000,100.0000,-35.6117,pares_disponiveis_por_linha
+Linha 3-Vermelha,52,52,532.9788,321.6923,52,-217.1000,100.0000,-39.6426,pares_disponiveis_por_linha
+Linha 1-Azul,49,49,473.4633,272.2327,49,-208.5000,100.0000,-42.5018,mesmas_datas_em_todas_as_linhas
+Linha 15-Prata,49,49,44.3776,23.1367,49,-21.3000,100.0000,-47.8639,mesmas_datas_em_todas_as_linhas
+Linha 2-Verde,49,49,248.4306,158.7061,49,-89.9000,100.0000,-36.1165,mesmas_datas_em_todas_as_linhas
+Linha 3-Vermelha,49,49,532.7020,321.3510,49,-217.2000,100.0000,-39.6753,mesmas_datas_em_todas_as_linhas
